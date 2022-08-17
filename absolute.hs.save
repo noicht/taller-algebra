@@ -1,0 +1,5 @@
+	abs n | n > 0 = n
+      | n < 0 = n
+      | otherwise = 0
+
+
