@@ -1,0 +1,24 @@
+vemos recursividad (aplicable a induccion)
+
+caso base son los cuales no tienen paso recursivo
+caso recursivo son los cuales se acercan a un caso base
+
+
+
+algoritmo de euclides: dados a b
+
+b= a * q + r con 0 <= r < a
+
+ej 13=3*4+1 --> basicamente es la division entera
+
+q = div b a 
+
+
+
+------------------------------------
+
+div n 10 = n sin la unidad
+
+mod n 10 = 'la unidad' que aparece en n
+
+
